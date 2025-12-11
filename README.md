@@ -52,7 +52,9 @@ pip install ultralytics
 ``` 
 2. Train your YOLO model with settings that match your performance requirements. 
 Always check your company's accuracy criteria to ensure the model meets expected 
-standards. 
+standards.
+```bash
+```
 --- 
 ## **7. Evaluate the Model With SAHI** 
 After YOLO achieves acceptable performance (e.g., **R² ≥ 0.8**, **MAPE < 15%**, or 
